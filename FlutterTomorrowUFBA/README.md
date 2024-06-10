@@ -1,4 +1,4 @@
-# flutter_application_teste
+# flutter_g_texto_flat
 
 A new Flutter project.
 
